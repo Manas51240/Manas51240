@@ -112,16 +112,16 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🚴 AdventureWorks Enterprise SQL Analytics</h3>
-      <p><b>Advanced SQL • Window Functions • CTEs • Data Modeling</b></p>
-      <p>End-to-end relational database analytics solving 14 complex business inquiries for a multinational manufacturing corporation.</p>
+      <h3>🚴 AdventureWorks Business Intelligence & SQL Analytics</h3>
+      <p><b>Power BI • Tableau • Advanced SQL • Window Functions • Excel</b></p>
+      <p>End-to-end relational database analytics & multi-tool BI reporting solving 14 complex business inquiries for a global manufacturing enterprise.</p>
       <ul>
-        <li><b>Advanced Queries:</b> Multi-table joins, CTE aggregations, and <code>DENSE_RANK()</code> customer performance rankings.</li>
-        <li><b>Strategic Analysis:</b> YoY revenue growth trends, monthly profit margin variance, and quarterly sales vs. production cost scorecards.</li>
-        <li><b>Architecture:</b> Enriched denormalized views (<code>vw_enrichedsales</code>) driving an interactive executive dashboard.</li>
+        <li><b>Advanced SQL:</b> CTE aggregations, multi-table joins, and <code>DENSE_RANK()</code> customer performance rankings.</li>
+        <li><b>BI Dashboards:</b> Interactive Tableau analytical dashboard, production Power BI model, and executive PDF dossier.</li>
+        <li><b>Strategic Analysis:</b> YoY revenue growth trends, monthly profit margin variance, and sales vs. production cost scorecards.</li>
       </ul>
       <p>
-        <a href="https://github.com/Manas51240/AdventureWorks-SQL-Analytics"><b>View SQL Scripts & Schema →</b></a>
+        <a href="https://github.com/Manas51240/AdventureWorks-SQL-Analytics"><b>View Case Study, Tableau & SQL →</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -216,12 +216,50 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Solutions Delivered & Technical Footprint
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas51240&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manas51240&theme=tokyonight" height="180" alt="GitHub Profile Stats" />
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>📊 200,000+</h3>
+        <sub><b>Transactional Records</b><br/>Multi-Source Relational & Fact Marts</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>🏨 ₹1.71B+</h3>
+        <sub><b>Revenue Evaluated</b><br/>ADR, RevPAR & Yield Modeling</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>🏢 2</h3>
+        <sub><b>Enterprise Portals</b><br/>Production Platforms @ IUCAA</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>🤖 4</h3>
+        <sub><b>AI Decision Engines</b><br/>Gemini, Spatial Clustering & Vision</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>📈 10+</h3>
+        <sub><b>Production Dashboards</b><br/>Power BI, Tableau & Excel Financials</sub>
+      </td>
+      <td align="center">
+        <h3>⚡ 14+</h3>
+        <sub><b>Enterprise SQL Solutions</b><br/>CTEs, Window Rankings & YoY Audits</sub>
+      </td>
+      <td align="center">
+        <h3>🗄️ 100%</h3>
+        <sub><b>Star-Schema Integrity</b><br/>Conformed Dims & Audit Suites</sub>
+      </td>
+      <td align="center">
+        <h3>🛰️ 3</h3>
+        <sub><b>Remote Sensing Indices</b><br/>NDVI, NDWI & NDBI Pipeline</sub>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manas51240&theme=tokyonight" height="175" alt="Repos per Language" />
