@@ -112,49 +112,91 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 
 ---
 
-### 🚀 Flagship Project Portfolio
+### 🚀 Visual Flagship Project Portfolio
 
 #### 🥇 Tier 1: Business Intelligence & Data Analytics
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🏨 Shodwe Hospitality Business Intelligence</h3>
-      <p><b>Power BI • Tableau • SQL • DAX • Star Schema</b></p>
-      <p>Comprehensive executive hospitality analytics engine for a luxury & business hotel chain across 4 metropolitan cities.</p>
-      <ul>
-        <li><b>Core Metrics:</b> Revenue Realized, Occupancy %, ADR (Avg Daily Rate), RevPAR, DSRN, Realisation %, Cancellation Rate.</li>
-        <li><b>Data Model:</b> Multi-dimensional Star Schema connecting <code>dim_hotels</code>, <code>dim_rooms</code>, <code>dim_date</code> with booking facts.</li>
-        <li><b>Deliverables:</b> 4-tier interactive dashboards (Executive Overview, Financial Realisation, Capacity Diagnostics, Channel Conversion).</li>
-      </ul>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manas51240/Shodwe-Hotel-Analytics">
+        <img src="assets/shodwe-preview.png" alt="Shodwe Hospitality Dashboard" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
+      <h3>🏨 Shodwe Hospitality BI & Revenue Analytics</h3>
       <p>
-        <a href="https://github.com/Manas51240/Shodwe-Hotel-Analytics"><b>View Case Study & Code →</b></a>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-Analytics-CC292B?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/DAX-Measures-2563EB?style=flat-square" />
+      </p>
+      <p>Enterprise executive analytics platform evaluating <b>₹1.71 Billion in revenue</b> across 134K+ bookings in 4 metro cities. Diagnoses cancellation leakage, weekend yield pricing, and room category ADR.</p>
+      <details>
+        <summary><b>🔍 Click to View Architecture & Key Insights</b></summary>
+        <ul>
+          <li><b>Star-Schema Architecture:</b> Fact bookings joined to <code>dim_hotels</code>, <code>dim_rooms</code>, and <code>dim_date</code>.</li>
+          <li><b>Core Metrics:</b> RevPAR (₹7,340), ADR (₹12,700), Realisation % (70.1%), Occupancy % (57.8%).</li>
+          <li><b>Strategic Recommendation:</b> Identified ₹45M+ revenue opportunity via dynamic weekend rate multipliers.</li>
+          <li><b>Deliverables:</b> Production <code>FINAL.pbix</code>, Tableau workbook, Excel financial model, and 4 SQL scripts.</li>
+        </ul>
+      </details>
+      <br/>
+      <p>
+        <a href="https://github.com/Manas51240/Shodwe-Hotel-Analytics"><b>👉 View Full Case Study, Data & Code</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manas51240/AdventureWorks-SQL-Analytics">
+        <img src="assets/adventureworks-preview.png" alt="AdventureWorks Tableau Dashboard" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
       <h3>🚴 AdventureWorks Business Intelligence & SQL Analytics</h3>
-      <p><b>Power BI • Tableau • Advanced SQL • Window Functions • Excel</b></p>
-      <p>End-to-end relational database analytics & multi-tool BI reporting solving 14 complex business inquiries for a global manufacturing enterprise.</p>
-      <ul>
-        <li><b>Advanced SQL:</b> CTE aggregations, multi-table joins, and <code>DENSE_RANK()</code> customer performance rankings.</li>
-        <li><b>BI Dashboards:</b> Interactive Tableau analytical dashboard, production Power BI model, and executive PDF dossier.</li>
-        <li><b>Strategic Analysis:</b> YoY revenue growth trends, monthly profit margin variance, and sales vs. production cost scorecards.</li>
-      </ul>
       <p>
-        <a href="https://github.com/Manas51240/AdventureWorks-SQL-Analytics"><b>View Case Study, Tableau & SQL →</b></a>
+        <img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-Report-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-Window_Ranking-CC292B?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-Model-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+      </p>
+      <p>End-to-end relational database analytics answering 14 core business inquiries across <b>60,398 sales transactions</b> with multi-tier dashboards and window rankings.</p>
+      <details>
+        <summary><b>🔍 Click to View SQL Highlights & Architecture</b></summary>
+        <ul>
+          <li><b>Advanced SQL:</b> CTE multi-table aggregations, <code>DENSE_RANK()</code> customer ranking, and 9 temporal attributes.</li>
+          <li><b>Multi-Tool Deliverables:</b> Interactive Tableau analytical dashboard, production Power BI data model, and executive PDF dossier.</li>
+          <li><b>Strategic Analysis:</b> YoY revenue growth trends, monthly profit margin variance, and quarterly sales vs cost scorecards.</li>
+        </ul>
+      </details>
+      <br/>
+      <p>
+        <a href="https://github.com/Manas51240/AdventureWorks-SQL-Analytics"><b>👉 View Full Case Study, Tableau & SQL</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3>📈 Sales Performance & Growth Analytics</h3>
-      <p><b>Power BI • DAX Measures • Business KPI Tracking</b></p>
-      <p>Production-ready commercial BI dashboard tracking operational sales velocity, revenue health, and market performance.</p>
-      <ul>
-        <li><b>Analytical Focus:</b> Revenue concentration, product line profitability, customer segmentation, and historical trend velocity.</li>
-        <li><b>Interactive Features:</b> Dynamic slicers, drill-through hierarchies, custom DAX metrics, and PDF executive summary reports.</li>
-        <li><b>Deliverables:</b> Production <code>.pbix</code> file, high-resolution snapshots, and structured data dictionary.</li>
-      </ul>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manas51240/Sales-Dashboard-PowerBI">
+        <img src="assets/sales-preview.png" alt="Sales Performance Dashboard" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
+      <h3>📈 Commercial Sales Performance BI</h3>
       <p>
-        <a href="https://github.com/Manas51240/Sales-Dashboard-PowerBI"><b>View Dashboard & Repo →</b></a>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-KPIs-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data-Modeling-10B981?style=flat-square" />
+      </p>
+      <p>Production-grade sales intelligence dashboard tracking regional revenue concentration, product profitability, dynamic DAX measures, and historical growth velocity.</p>
+      <p>
+        <a href="https://github.com/Manas51240/Sales-Dashboard-PowerBI"><b>👉 View Dashboard & Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/telecom-preview.png" alt="Telecom Blind-Spot Intelligence" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      <h3>📡 Telecom Blind-Spot Intelligence Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-Clustering-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-API-4285F4?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <p>Geospatial telecommunication analytics engine detecting signal dropouts, latency anomalies, and speed bottlenecks (< Mbps) to automate cell-tower placement recommendations.</p>
+      <p>
+        <i>Spatial Data Analytics & AI Remediation</i>
       </p>
     </td>
   </tr>
@@ -166,23 +208,17 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🏟️ SmartVenue-AI</h3>
-      <p><b>FastAPI • React • TypeScript • Gemini AI • Leaflet</b></p>
-      <p>Next-generation venue management platform integrating crowd density analytics, predictive queue wait times, and a Gemini-powered event intelligence assistant.</p>
-      <p><a href="https://github.com/Manas51240/SmartVenue-AI"><b>Explore SmartVenue-AI →</b></a></p>
+    <td width="50%" valign="top">
+      <h3>🏟️ SmartVenue-AI — Predictive Venue & Crowd Intelligence</h3>
+      <p><b>FastAPI • React • TypeScript • Gemini AI • Leaflet Mapping</b></p>
+      <p>Next-generation smart venue analytics engine combining real-time crowd density heatmaps, predictive queue wait times, and a Gemini-powered conversational assistant for operational event decisions.</p>
+      <p><a href="https://github.com/Manas51240/SmartVenue-AI"><b>Explore SmartVenue-AI Repository →</b></a></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚖️ NyayaLens Legal Intelligence</h3>
-      <p><b>Gemini 1.5 • React • TypeScript • NLP • Risk Radar</b></p>
-      <p>AI-driven legal document analytics platform featuring grounded question-answering, automated risk scoring, and semantic contract delta comparison.</p>
-      <p><a href="https://github.com/Manas51240/NyayaLens"><b>Explore NyayaLens →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📡 Telecom Blind-Spot Intelligence</h3>
-      <p><b>Flask • Pandas • Spatial Clustering • Gemini AI</b></p>
-      <p>Geospatial telecommunication analytics platform detecting signal dropouts, latency anomalies, and speed bottlenecks (< Mbps) to recommend cell-tower placement.</p>
-      <p><i>Geospatial & Network Analytics</i></p>
+    <td width="50%" valign="top">
+      <h3>⚖️ NyayaLens — Legal Document Intelligence Platform</h3>
+      <p><b>Google Gemini 1.5 • React • TypeScript • NLP • Risk Radar</b></p>
+      <p>AI document intelligence platform delivering grounded contractual Q&A, automated regulatory risk scoring radar, and semantic contract delta comparison.</p>
+      <p><a href="https://github.com/Manas51240/NyayaLens"><b>Explore NyayaLens Repository →</b></a></p>
     </td>
   </tr>
 </table>
@@ -194,20 +230,20 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ AkashDrishti — Geospatial Remote Sensing Platform</h3>
-      <p><b>Python • Sentinel-2 Imagery • NumPy • Flask • Geospatial AI • Firebase</b></p>
-      <p>Satellite-based environmental monitoring engine for large-scale land-use change detection:</p>
+      <h3>🛰️ AkashDrishti — Satellite Remote Sensing Platform</h3>
+      <p><b>Python • Sentinel-2 Space Imagery • NumPy • Flask • Firebase</b></p>
+      <p>Satellite environmental change detection engine integrated with the Copernicus Data Space Ecosystem (CDSE):</p>
       <ul>
         <li>Automated calculation of <b>NDVI</b> (Vegetation), <b>NDWI</b> (Water Bodies), and <b>NDBI</b> (Built-up Indices).</li>
         <li>Multi-temporal image comparison with cloud masking and optimized parallel pixel computation.</li>
-        <li>Interactive geospatial visualization showing urban sprawl and ecological shifts over time.</li>
+        <li>Interactive geospatial visualization tracking urban sprawl and ecological shifts over time.</li>
       </ul>
-      <p><a href="https://github.com/Manas51240/AkashDrishti"><b>Explore AkashDrishti Platform →</b></a></p>
+      <p><a href="https://github.com/Manas51240/AkashDrishti"><b>Explore AkashDrishti Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 IUCAA Enterprise Platforms (Travel Claim & Workshop Systems)</h3>
+      <h3>🏢 IUCAA Enterprise Platforms (Travel Claim & Workshop Governance)</h3>
       <p><b>Node.js • Express • MySQL 8.0 • React (TypeScript) • Docker • Nginx</b></p>
-      <p>Production enterprise portals engineered for the <b>Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune</b>:</p>
+      <p>Production enterprise platforms designed for the <b>Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune</b>:</p>
       <ul>
         <li><b>Travel Claim Digitization Portal:</b> 3-Reviewer sequential evaluation pipeline (Travel &rarr; Guest House &rarr; Finance) automating reimbursement calculations, TA/DA audits, and official PDF dossier compilation via <code>pdfmake</code>.</li>
         <li><b>Workshop Proposal & Governance Platform:</b> Academic symposium governance engine with a 7-step submission wizard, smart faculty directory verification, automated financial auditing, and committee voting workflows.</li>
@@ -220,16 +256,22 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 
 ---
 
-### 📐 How I Approach Analytics Projects
+### 📐 End-to-End Analytics Workflow
 
-```
-┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
-│  Business Goal  │  ──>  │  Data Modeling  │  ──>  │ SQL / DAX Query │  ──>  │ Actionable BI   │
-│ & KPI Definition│       │  (Star Schema)  │       │ & Calculations  │       │ & AI Insights   │
-└─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘
+```mermaid
+graph LR
+    A[🎯 Business Goal<br/>& KPI Scoping] --> B[🗄️ Dimensional Modeling<br/>Star Schema / DDL]
+    B --> C[⚡ SQL & DAX Engine<br/>Measures & Window Logic]
+    C --> D[📊 Executive BI<br/>Power BI & Tableau]
+    D --> E[🤖 AI Insights<br/>Gemini Natural Language]
+    style A fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style B fill:#1e293b,stroke:#f59e0b,stroke-width:2px,color:#fff
+    style C fill:#1e293b,stroke:#ef4444,stroke-width:2px,color:#fff
+    style D fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff
+    style E fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff
 ```
 
-1. **Understand Business Context:** Define specific questions (e.g., *What drives cancellation? Which channels have the highest ADR?*).
+1. **Understand Business Context:** Define specific questions (*What drives cancellation? Which channels have the highest ADR?*).
 2. **Robust Dimensional Modeling:** Design Star Schemas with clean surrogate keys, conformed dimensions, and audit trails.
 3. **Optimized Calculations:** Build accurate, high-performance DAX measures and SQL window functions rather than ad-hoc calculations.
 4. **Insights Over Aesthetics:** Highlight the "So What?" — translating charts into operational strategies, revenue recovery, and AI-assisted anomaly detection.
