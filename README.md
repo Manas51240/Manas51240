@@ -4,7 +4,7 @@
 ### **Data Analyst & BI Engineer | AI-Driven Business Analytics**
 Pune, Maharashtra, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manas--deshmukh.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manas-deshmukh.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manas--deshmukh.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manas-deshmukh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-deshmukh-493a35218)
 [![GitHub](https://img.shields.io/badge/GitHub-Manas51240-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas51240)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasdeshmukh51240@gmail.com)
@@ -219,12 +219,13 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas51240&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Manas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas51240&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas51240&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manas51240&theme=tokyonight" height="180" alt="GitHub Profile Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas51240&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manas51240&theme=tokyonight" height="175" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manas51240&theme=tokyonight" height="175" alt="Most Commit Language" />
 </div>
 
 ---
@@ -232,7 +233,7 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
 ### 📬 Let's Connect & Collaborate
 
 - 💼 **LinkedIn:** [linkedin.com/in/manas-deshmukh-493a35218](https://www.linkedin.com/in/manas-deshmukh-493a35218)
-- 🌐 **Portfolio Website:** [manas-deshmukh.dev](https://manas-deshmukh.vercel.app/)
+- 🌐 **Portfolio Website:** [manas-deshmukh.vercel.app](https://manas-deshmukh.vercel.app/)
 - 📧 **Direct Email:** [manasdeshmukh51240@gmail.com](mailto:manasdeshmukh51240@gmail.com)
 - 📍 **Location:** Pune, India (Open to Relocation & Remote Roles)
 
