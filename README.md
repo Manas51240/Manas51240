@@ -9,16 +9,17 @@
       <td valign="middle" align="left" style="padding-left: 20px;">
         <h1>Hi, I'm Manas Deshmukh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Project+Student+%40+IUCAA" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=520&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Actively+Seeking+Full-Time+Roles" alt="Typing SVG" />
         </a>
         <br/>
-        <span>📍 <b>Pune, India</b> • 🎓 <b>AI & Data Science</b> • 💼 <b>Project Student @ IUCAA</b></span>
+        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Engineer</b> • 🚀 <b style="color: #10B981;">Actively Seeking Full-Time Roles</b></span>
       </td>
     </tr>
   </table>
 
   <br/>
 
+  <a href="mailto:manasdeshmukh51240@gmail.com"><img src="https://img.shields.io/badge/Status-Open_To_Work-10B981?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://manas-deshmukh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-manas--deshmukh.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manas-deshmukh-493a35218"><img src="https://img.shields.io/badge/LinkedIn-Manas_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Manas51240"><img src="https://img.shields.io/badge/GitHub-Manas51240-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -41,7 +42,7 @@
 
 Data Analyst & Business Intelligence Specialist with a strong foundation in **SQL**, **Power BI**, **DAX**, **Tableau**, and **Python**, alongside working proficiency in **Node.js** and **Express** for data services and backend APIs. Experienced in building enterprise-grade data models (Star Schema / Snowflake), computing critical business KPIs (Revenue, ADR, RevPAR, Churn, Profit Margins), and delivering actionable insights to executive stakeholders.
 
-Currently working as a **Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*, architecting secure, database-driven enterprise applications (Travel Claim & Workshop Governance Portals). Unique differentiator: **bridging traditional BI analytics with Generative AI / LLM workflows** to build next-generation conversational business intelligence copilots.
+Having successfully completed all tenure milestones and 3 enterprise application projects as a **Former Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*, architecting secure, database-driven systems and approval workflows. Currently **actively seeking full-time Data Analyst & Business Intelligence roles** (Open to Remote & Relocation).
 
 ---
 
@@ -292,8 +293,8 @@ graph LR
         <sub><b>Revenue Evaluated</b><br/>ADR, RevPAR & Yield Modeling</sub>
       </td>
       <td align="center" width="25%">
-        <h3>🏢 2</h3>
-        <sub><b>Enterprise Portals</b><br/>Production Platforms @ IUCAA</sub>
+        <h3>🏢 3</h3>
+        <sub><b>Delivered Portals</b><br/>Enterprise Platforms @ IUCAA</sub>
       </td>
       <td align="center" width="25%">
         <h3>🤖 4</h3>
