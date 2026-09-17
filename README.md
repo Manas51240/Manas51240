@@ -19,11 +19,11 @@
 
   <br/>
 
-  <a href="mailto:manasdeshmukh51240@gmail.com"><img src="https://img.shields.io/badge/Status-Open_To_Work-10B981?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="mailto:manasdeshmukh512@gmail.com"><img src="https://img.shields.io/badge/Status-Open_To_Work-10B981?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://manas-deshmukh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-manas--deshmukh.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manas-deshmukh-493a35218"><img src="https://img.shields.io/badge/LinkedIn-Manas_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Manas51240"><img src="https://img.shields.io/badge/GitHub-Manas51240-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:manasdeshmukh51240@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manasdeshmukh512@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <br/><br/>
 
@@ -431,7 +431,7 @@ graph LR
 
 - 💼 **LinkedIn:** [linkedin.com/in/manas-deshmukh-493a35218](https://www.linkedin.com/in/manas-deshmukh-493a35218)
 - 🌐 **Portfolio Website:** [manas-deshmukh.vercel.app](https://manas-deshmukh.vercel.app/)
-- 📧 **Direct Email:** [manasdeshmukh51240@gmail.com](mailto:manasdeshmukh51240@gmail.com)
+- 📧 **Direct Email:** [manasdeshmukh512@gmail.com](mailto:manasdeshmukh512@gmail.com)
 - 📍 **Location:** Pune, India (Open to Relocation & Remote Roles)
 
 <br/>
