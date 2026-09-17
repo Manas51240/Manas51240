@@ -323,9 +323,60 @@ graph LR
 
 <br/>
 
+### ⚡ Analytics & Technical Proficiency
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manas51240&theme=tokyonight" height="175" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manas51240&theme=tokyonight" height="175" alt="Most Commit Language" />
+  <table>
+    <tr>
+      <td width="50%">
+        <b>📊 Business Intelligence & Visualization</b><br/>
+        <code>Power BI</code> <code>DAX</code> <code>Tableau</code> <code>Excel Pivot/VBA</code> <code>KPI Modeling</code><br/>
+        <img src="https://geps.dev/progress/95?dangerColor=38bdf8&warningColor=38bdf8&successColor=38bdf8" alt="BI & Visualization: 95%" />
+      </td>
+      <td width="50%">
+        <b>🗄️ Relational Databases & SQL</b><br/>
+        <code>Complex SQL</code> <code>MySQL</code> <code>Window Ranking</code> <code>Oracle DB Admin</code><br/>
+        <img src="https://geps.dev/progress/92?dangerColor=10b981&warningColor=10b981&successColor=10b981" alt="Databases & SQL: 92%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <b>🐍 Programming & Data Wrangling</b><br/>
+        <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-Learn</code> <code>EDA</code><br/>
+        <img src="https://geps.dev/progress/88?dangerColor=f59e0b&warningColor=f59e0b&successColor=f59e0b" alt="Programming: 88%" />
+      </td>
+      <td width="50%">
+        <b>🤖 AI-Driven Solutions & Backend</b><br/>
+        <code>Google Gemini API</code> <code>FastAPI</code> <code>Node.js</code> <code>Docker</code><br/>
+        <img src="https://geps.dev/progress/85?dangerColor=a855f7&warningColor=a855f7&successColor=a855f7" alt="AI & Backend: 85%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📚 Peer-Reviewed Research & Academic Publications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 Legacy System Modernization Framework</h4>
+      <p><b>International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET)</b></p>
+      <p><i>Vol. 14, Issue 11 • DOI: <code>10.15680/IJIRSET.2025.1411082</code> • e-ISSN: 2319-8753</i></p>
+      <p>Investigates architectural frameworks for migrating legacy Oracle 10g Forms & Reports to modernized database backends, validating automated schema workflows, transactional integrity, and reporting engines under research faculty guidance.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 Enterprise Oracle Forms & Reports Migration to Oracle 12c</h4>
+      <p><b>International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET)</b></p>
+      <p><i>Vol. 15, Issue 5 • DOI: <code>10.15680/IJIRSET.2026.1505172</code> • e-ISSN: 2319-8753</i></p>
+      <p>Delivers a practical enterprise modernization framework addressing recompilation pipelines, middleware configuration (Oracle WebLogic), and zero-loss database schema validation for high-availability systems.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>🎓 <b>Leadership & Mentorship:</b> Mentored <b>150+ student engineers</b> as President/Leader of the <b>Technology Innovation & Creativity (TIC) Club</b>.</p>
 </div>
 
 ---
