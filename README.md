@@ -12,7 +12,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=520&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Actively+Seeking+Full-Time+Roles" alt="Typing SVG" />
         </a>
         <br/>
-        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Engineer</b> • 🚀 <b style="color: #10B981;">Actively Seeking Full-Time Roles</b></span>
+        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Engineer</b> • 🏛️ <b>President @ TIC Club</b> • 🚀 <b style="color: #10B981;">Actively Seeking Full-Time Roles</b></span>
       </td>
     </tr>
   </table>
@@ -216,10 +216,18 @@ Having successfully completed all tenure milestones and 3 enterprise application
       <p><a href="https://github.com/Manas51240/SmartVenue-AI"><b>Explore SmartVenue-AI Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚖️ NyayaLens — Legal Document Intelligence Platform</h3>
-      <p><b>Google Gemini 1.5 • React • TypeScript • NLP • Risk Radar</b></p>
-      <p>AI document intelligence platform delivering grounded contractual Q&A, automated regulatory risk scoring radar, and semantic contract delta comparison.</p>
-      <p><a href="https://github.com/Manas51240/NyayaLens"><b>Explore NyayaLens Repository →</b></a></p>
+      <h3>⚖️ NyayaLens — Grounded AI Legal Document Platform</h3>
+      <p>
+        <a href="https://nyayalens-eight.vercel.app/"><img src="https://img.shields.io/badge/Live_Platform-nyayalens--eight.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Next.js_14-App_Router-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_1.5-Grounded_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p>Production GenAI legal understanding platform translating complex contracts into structured review priorities, 10-dimension <b>Legal Risk Radar</b>, contract comparison, and attorney consultation briefs with zero data retention.</p>
+      <p>
+        <a href="https://nyayalens-eight.vercel.app/"><b>🌐 Open Live Platform</b></a> • 
+        <a href="https://github.com/Manas51240/NyayaLens"><b>💻 View Source Code →</b></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -376,9 +384,42 @@ graph LR
   </tr>
 </table>
 
-<div align="center">
-  <p>🎓 <b>Leadership & Mentorship:</b> Mentored <b>150+ student engineers</b> as President/Leader of the <b>Technology Innovation & Creativity (TIC) Club</b>.</p>
-</div>
+---
+
+### 🏛️ Executive Leadership & Institutional Web Architecture
+
+<table>
+  <tr>
+    <td width="160" align="center" valign="middle">
+      <a href="https://tic-official.netlify.app/">
+        <img src="assets/club-logo.webp" width="130" height="130" style="border-radius: 50%; border: 3px solid #00ff66; box-shadow: 0 4px 20px rgba(0, 255, 102, 0.35); object-fit: cover;" alt="Technology Innovation Club Logo" />
+      </a>
+      <br/><br/>
+      <sub><b>Official Emblem</b></sub>
+    </td>
+    <td valign="middle" style="padding-left: 20px;">
+      <h3>👑 President & Lead Web Architect — Technology Innovation Club (TIC)</h3>
+      <p>
+        <a href="https://tic-official.netlify.app/"><img src="https://img.shields.io/badge/Live_Portal-tic--official.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
+        <a href="https://github.com/Manas51240/TIC-Club-Official-Portal"><img src="https://img.shields.io/badge/GitHub-TIC--Club--Official--Portal-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://tic-official.netlify.app/verify.html"><img src="https://img.shields.io/badge/Certificate_Scanner-Live_Engine-10B981?style=flat-square" /></a>
+        <img src="https://img.shields.io/badge/Mentorship-150%2B_Engineers-38BDF8?style=flat-square" />
+      </p>
+      <p>Headed the executive committee of the university's premier technical body, directing event operations, hackathons, and technical symposiums while architecting the club's official web portal from scratch.</p>
+      <ul>
+        <li><b>Engineered & Deployed Official Portal:</b> Built the high-performance multi-page portal (<a href="https://tic-official.netlify.app/"><code>tic-official.netlify.app</code></a>) utilizing vanilla HTML5, glassmorphism CSS3, and ES6+ JavaScript, eliminating paper operations for 500+ participants.</li>
+        <li><b>Digital Certificate Verification Engine:</b> Designed a query-parameter driven verification engine (<a href="https://tic-official.netlify.app/verify.html"><code>/verify.html?id=TIC-2026-0001</code></a>) with animated scanner feedback to validate student credentials and awards.</li>
+        <li><b>Executive Mentorship & Hackathon Management:</b> Mentored <b>150+ student engineers</b> across collegiate hackathons, robotics exhibitions, debates, and annual National Science Day competitions.</li>
+        <li><b>Data Privacy & Security Architecture:</b> Implemented a clean separation of concerns, isolating public presentation components while safeguarding institutional student registration ledgers and private webhook credentials.</li>
+      </ul>
+      <p>
+        <a href="https://tic-official.netlify.app/"><b>🌐 Visit Live TIC Website</b></a> • 
+        <a href="https://tic-official.netlify.app/verify.html"><b>🛡️ Try Certificate Scanner</b></a> • 
+        <a href="https://github.com/Manas51240/TIC-Club-Official-Portal"><b>💻 Explore Portal Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
