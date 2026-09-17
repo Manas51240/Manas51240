@@ -12,7 +12,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=520&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Actively+Seeking+Full-Time+Roles" alt="Typing SVG" />
         </a>
         <br/>
-        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Engineer</b> • 🏛️ <b>President @ TIC Club</b> • 🚀 <b style="color: #10B981;">Actively Seeking Full-Time Roles</b></span>
+        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Engineer</b> • 🏛️ <b>President @ TIC Club (Sep 2025 – Apr 2026)</b></span>
       </td>
     </tr>
   </table>
@@ -403,12 +403,13 @@ graph LR
     <td valign="middle" style="padding-left: 20px;">
       <h3>👑 President & Lead Web Architect — Technology Innovation Club (TIC)</h3>
       <p>
+        <img src="https://img.shields.io/badge/Tenure-Sep_2025_--_Apr_2026-8B5CF6?style=flat-square" />
         <a href="https://tic-official.netlify.app/"><img src="https://img.shields.io/badge/Live_Portal-tic--official.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
         <a href="https://github.com/Manas51240/TIC-Club-Official-Portal"><img src="https://img.shields.io/badge/GitHub-TIC--Club--Official--Portal-181717?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://tic-official.netlify.app/verify.html"><img src="https://img.shields.io/badge/Certificate_Scanner-Live_Engine-10B981?style=flat-square" /></a>
         <img src="https://img.shields.io/badge/Mentorship-150%2B_Engineers-38BDF8?style=flat-square" />
       </p>
-      <p>Headed the executive committee of the university's premier technical body, directing event operations, hackathons, and technical symposiums while architecting the club's official web portal from scratch.</p>
+      <p>Served as President from <b>September 2025 to April 2026</b>, heading the executive committee of the university's premier technical body, directing event operations, hackathons, and technical symposiums while architecting the club's official web portal from scratch.</p>
       <ul>
         <li><b>Engineered & Deployed Official Portal:</b> Built the high-performance multi-page portal (<a href="https://tic-official.netlify.app/"><code>tic-official.netlify.app</code></a>) utilizing vanilla HTML5, glassmorphism CSS3, and ES6+ JavaScript, eliminating paper operations for 500+ participants.</li>
         <li><b>Digital Certificate Verification Engine:</b> Designed a query-parameter driven verification engine (<a href="https://tic-official.netlify.app/verify.html"><code>/verify.html?id=TIC-2026-0001</code></a>) with animated scanner feedback to validate student credentials and awards.</li>
