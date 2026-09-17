@@ -210,10 +210,13 @@ Having successfully completed all tenure milestones and 3 enterprise application
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏟️ SmartVenue-AI — Predictive Venue & Crowd Intelligence</h3>
-      <p><b>FastAPI • React • TypeScript • Gemini AI • Leaflet Mapping</b></p>
-      <p>Next-generation smart venue analytics engine combining real-time crowd density heatmaps, predictive queue wait times, and a Gemini-powered conversational assistant for operational event decisions.</p>
-      <p><a href="https://github.com/Manas51240/SmartVenue-AI"><b>Explore SmartVenue-AI Repository →</b></a></p>
+      <h3>🏟️ StadiumOS-AI & SmartVenue — Venue Digital Twin Platform</h3>
+      <p><b>FastAPI • React • TypeScript • Gemini AI • Docker Clean Architecture</b></p>
+      <p>Production-grade digital twin and AI copilot platform engineered for FIFA World Cup 2026 venue operations, real-time crowd density heatmaps, emergency routing, and predictive wait-time analytics.</p>
+      <p>
+        <a href="https://github.com/Manas51240/StadiumOS-AI"><b>Explore StadiumOS-AI →</b></a> • 
+        <a href="https://github.com/Manas51240/SmartVenue-AI"><b>View SmartVenue-AI</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚖️ NyayaLens — Grounded AI Legal Document Platform</h3>
