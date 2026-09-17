@@ -19,9 +19,9 @@ Pune, Maharashtra, India
 
 ### 👤 Executive Summary
 
-Data Analyst & Business Intelligence Specialist with a strong foundation in **SQL**, **Power BI**, **DAX**, **Tableau**, and **Python**. Experienced in building enterprise-grade data models (Star Schema / Snowflake), computing critical business KPIs (Revenue, ADR, RevPAR, Churn, Profit Margins), and delivering actionable insights to executive stakeholders.
+Data Analyst & Business Intelligence Specialist with a strong foundation in **SQL**, **Power BI**, **DAX**, **Tableau**, and **Python**, alongside working proficiency in **Node.js** and **Express** for data services and backend APIs. Experienced in building enterprise-grade data models (Star Schema / Snowflake), computing critical business KPIs (Revenue, ADR, RevPAR, Churn, Profit Margins), and delivering actionable insights to executive stakeholders.
 
-Currently working as a **Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*, architecting secure, database-driven enterprise applications. Unique differentiator: **bridging traditional BI analytics with Generative AI / LLM workflows** to build next-generation conversational business intelligence copilots.
+Currently working as a **Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*, architecting secure, database-driven enterprise applications (Travel Claim & Workshop Governance Portals). Unique differentiator: **bridging traditional BI analytics with Generative AI / LLM workflows** to build next-generation conversational business intelligence copilots.
 
 ---
 
@@ -44,12 +44,11 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
   <tr>
     <td width="25%" valign="top"><b>🗄️ Databases & Query Engines</b></td>
     <td width="75%">
-      <img src="https://img.shields.io/badge/SQL-Advanced_Queries-CC292B?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-Advanced_Queries-CC292B?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Oracle_Database-Administration-F80000?style=flat-square&logo=oracle&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       <br/>
-      <sub>Window Functions (DENSE_RANK, LEAD/LAG) • CTEs • Views • Query Optimization • Indexing • ETL Pipelines</sub>
+      <sub>Window Functions (DENSE_RANK, LEAD/LAG) • CTEs • Views • Query Optimization • Indexing • Schema Architecture</sub>
     </td>
   </tr>
   <tr>
@@ -76,16 +75,17 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>⚙️ Engineering & Production</b></td>
+    <td width="25%" valign="top"><b>⚙️ Engineering & Backend</b></td>
     <td width="75%">
+      <img src="https://img.shields.io/badge/Node.js-Moderate-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-REST_APIs-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <br/>
-      <sub>RESTful APIs • Docker Compose • Microservices Architecture • CI/CD Automation</sub>
+      <sub>RESTful APIs • API Gateways • Docker Compose • Microservices Architecture • Relational DB Pools</sub>
     </td>
   </tr>
 </table>
@@ -159,17 +159,17 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
       <p><a href="https://github.com/Manas51240/NyayaLens"><b>Explore NyayaLens →</b></a></p>
     </td>
     <td width="33%" valign="top">
-      <h3>🌱 CarbonOS-AI</h3>
-      <p><b>TypeScript • Analytics Engine • AI Optimization</b></p>
-      <p>Intelligent sustainability platform calculating enterprise carbon emissions, identifying footprint drivers, and recommending optimization pathways.</p>
-      <p><a href="https://github.com/Manas51240/CarbonOS-AI"><b>Explore CarbonOS-AI →</b></a></p>
+      <h3>📡 Telecom Blind-Spot Intelligence</h3>
+      <p><b>Flask • Pandas • Spatial Clustering • Gemini AI</b></p>
+      <p>Geospatial telecommunication analytics platform detecting signal dropouts, latency anomalies, and speed bottlenecks (< Mbps) to recommend cell-tower placement.</p>
+      <p><i>Geospatial & Network Analytics</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-#### 🥉 Tier 3: Specialized Remote Sensing & Enterprise Systems
+#### 🥉 Tier 3: Specialized Remote Sensing & Institutional Enterprise Systems
 
 <table>
   <tr>
@@ -185,15 +185,15 @@ Currently working as a **Project Student at IUCAA** *(Inter-University Centre fo
       <p><a href="https://github.com/Manas51240/AkashDrishti"><b>Explore AkashDrishti Platform →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 IUCAA Enterprise Systems (Travel Claim & Workshop Portals)</h3>
-      <p><b>Docker • MySQL • Node.js / Express • Vite / React • Microservices</b></p>
-      <p>Production enterprise platforms designed for the Inter-University Centre for Astronomy and Astrophysics:</p>
+      <h3>🏢 IUCAA Enterprise Platforms (Travel Claim & Workshop Systems)</h3>
+      <p><b>Node.js • Express • MySQL 8.0 • React (TypeScript) • Docker • Nginx</b></p>
+      <p>Production enterprise portals engineered for the <b>Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune</b>:</p>
       <ul>
-        <li><b>Travel Claim Portal:</b> Full workflow automation for institutional reimbursement, expense validation, and multi-stage administrative approvals.</li>
-        <li><b>Workshop Management Portal:</b> Participant tracking, budget auditing, attendee verification, and centralized MySQL relational backend.</li>
-        <li>Containerized architecture using Docker Compose, Nginx reverse proxy, and enterprise RBAC security.</li>
+        <li><b>Travel Claim Digitization Portal:</b> 3-Reviewer sequential evaluation pipeline (Travel &rarr; Guest House &rarr; Finance) automating reimbursement calculations, TA/DA audits, and official PDF dossier compilation via <code>pdfmake</code>.</li>
+        <li><b>Workshop Proposal & Governance Platform:</b> Academic symposium governance engine with a 7-step submission wizard, smart faculty directory verification, automated financial auditing, and committee voting workflows.</li>
+        <li>Containerized microservices orchestration via Docker Compose, Nginx reverse proxy, and JWT/Bcrypt authentication.</li>
       </ul>
-      <p><i>Institutional Research & Production Engineering Experience</i></p>
+      <p><i>🔒 Institutional Enterprise Platforms (On-Premise / Source Code Proprietary to IUCAA)</i></p>
     </td>
   </tr>
 </table>
