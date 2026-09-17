@@ -20,6 +20,8 @@
   <br/>
 
   <a href="mailto:manasdeshmukh512@gmail.com"><img src="https://img.shields.io/badge/Status-Open_To_Work-10B981?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="https://github.com/Manas51240/Manas51240/blob/main/Manas_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View_PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/Manas51240/Manas51240/main/Manas_Resume.pdf"><img src="https://img.shields.io/badge/Download-Resume_1_Click-0284C7?style=for-the-badge&logo=download&logoColor=white" /></a>
   <a href="https://manas-deshmukh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-manas--deshmukh.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manas-deshmukh-493a35218"><img src="https://img.shields.io/badge/LinkedIn-Manas_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Manas51240"><img src="https://img.shields.io/badge/GitHub-Manas51240-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -43,6 +45,39 @@
 Data Analyst & Business Intelligence Specialist with a strong foundation in **SQL**, **Power BI**, **DAX**, **Tableau**, and **Python**, alongside working proficiency in **Node.js** and **Express** for data services and backend APIs. Experienced in building enterprise-grade data models (Star Schema / Snowflake), computing critical business KPIs (Revenue, ADR, RevPAR, Churn, Profit Margins), and delivering actionable insights to executive stakeholders.
 
 Having successfully completed all tenure milestones and 3 enterprise application projects as a **Former Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*, architecting secure, database-driven systems and approval workflows. Currently **actively seeking full-time Data Analyst & Business Intelligence roles** (Open to Remote & Relocation).
+
+---
+
+### 📄 Executive Resume & Credentials (ATS Score: 96/100 • 1-Page Optimized)
+
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <a href="https://github.com/Manas51240/Manas51240/blob/main/Manas_Resume.pdf" target="_blank">
+        <img src="assets/resume-preview.png" width="230" style="border: 1px solid #334155; border-radius: 6px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" alt="Manas Deshmukh Resume Preview" />
+      </a>
+      <br/>
+      <small><i>🔍 Click preview image to open interactive vector PDF</i></small>
+    </td>
+    <td width="64%" valign="middle" style="padding-left: 20px;">
+      <h4>🎯 Target Role: Data Analyst &amp; BI Engineer (AI + Analytics)</h4>
+      <p><b>Document Format:</b> 1-Page Linear Vector Layout • <b>ATS Parseability Score:</b> <code>96 / 100</code></p>
+      <ul>
+        <li><b>Core Stack:</b> SQL (CTEs, Window Functions), Power BI, DAX, Tableau, Python, Star Schema ETL</li>
+        <li><b>Work Experience:</b> Data Analyst @ <b>AI Variant</b> • Project Engineer @ <b>IUCAA</b> (Oracle 10g to 19c Migration)</li>
+        <li><b>Verified Credentials:</b> Google Analytics Certification (Google Skillshop) • IUCAA Project Certification • NPTEL / Cisco Python</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/Manas51240/Manas51240/blob/main/Manas_Resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/👁️_Open_Resume-In_New_Tab-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open in new tab" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://raw.githubusercontent.com/Manas51240/Manas51240/main/Manas_Resume.pdf">
+        <img src="https://img.shields.io/badge/📥_One--Click_Download-.PDF-10B981?style=for-the-badge&logo=download&logoColor=white" alt="One-Click Download" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
