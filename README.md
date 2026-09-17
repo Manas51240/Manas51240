@@ -1,18 +1,38 @@
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="160">
+        <a href="https://manas-deshmukh.vercel.app/">
+          <img src="assets/manas-professional.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.35); object-fit: cover;" alt="Manas Deshmukh" />
+        </a>
+      </td>
+      <td valign="middle" align="left" style="padding-left: 20px;">
+        <h1>Hi, I'm Manas Deshmukh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Project+Student+%40+IUCAA" alt="Typing SVG" />
+        </a>
+        <br/>
+        <span>📍 <b>Pune, India</b> • 🎓 <b>AI & Data Science</b> • 💼 <b>Project Student @ IUCAA</b></span>
+      </td>
+    </tr>
+  </table>
 
-# 📊 Manas Deshmukh
-### **Data Analyst & BI Engineer | AI-Driven Business Analytics**
-Pune, Maharashtra, India
+  <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manas--deshmukh.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manas-deshmukh.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-deshmukh-493a35218)
-[![GitHub](https://img.shields.io/badge/GitHub-Manas51240-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas51240)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasdeshmukh51240@gmail.com)
+  <a href="https://manas-deshmukh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-manas--deshmukh.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manas-deshmukh-493a35218"><img src="https://img.shields.io/badge/LinkedIn-Manas_Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Manas51240"><img src="https://img.shields.io/badge/GitHub-Manas51240-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:manasdeshmukh51240@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
+  <br/><br/>
 
-> **"I transform raw, messy transactional data into executive business intelligence dashboards, dimensional data models, and AI-powered decision support systems."**
-
+  <table>
+    <tr>
+      <td align="center">
+        <i>"I transform raw, complex transactional data into executive business intelligence dashboards, dimensional models, and AI-powered decision support systems."</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
