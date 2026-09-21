@@ -124,14 +124,15 @@ Having successfully completed all tenure milestones and 3 enterprise application
     <td width="75%">
       <img src="https://img.shields.io/badge/Google_Gemini-API-4285F4?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/Generative_AI-LLM_Workflows-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Google_Antigravity-Agentic_IDE-4285F4?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_Copilots-Natural_Language_BI-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/Geospatial_AI-Remote_Sensing-16A34A?style=flat-square" />
       <br/>
-      <sub>AI-Assisted Business Intelligence • Grounded Q&A Systems • Text-to-Insights • Risk Detection</sub>
+      <sub>AI-Assisted Business Intelligence • Autonomous Agentic Coding • Grounded Q&A Systems • Text-to-Insights • Risk Detection</sub>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>⚙️ Engineering & Backend</b></td>
+    <td width="25%" valign="top"><b>⚙️ Engineering & Tools</b></td>
     <td width="75%">
       <img src="https://img.shields.io/badge/Node.js-Moderate-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-REST_APIs-000000?style=flat-square&logo=express&logoColor=white" />
@@ -140,6 +141,7 @@ Having successfully completed all tenure milestones and 3 enterprise application
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
       <br/>
       <sub>RESTful APIs • API Gateways • Docker Compose • Microservices Architecture • Relational DB Pools</sub>
     </td>
@@ -245,6 +247,9 @@ Having successfully completed all tenure milestones and 3 enterprise application
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Manas51240/StadiumOS-AI">
+        <img src="assets/stadium-preview.png" alt="StadiumOS-AI Digital Twin Command Center" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
       <h3>🏟️ StadiumOS-AI & SmartVenue — Venue Digital Twin Platform</h3>
       <p><b>FastAPI • React • TypeScript • Gemini AI • Docker Clean Architecture</b></p>
       <p>Production-grade digital twin and AI copilot platform engineered for FIFA World Cup 2026 venue operations, real-time crowd density heatmaps, emergency routing, and predictive wait-time analytics.</p>
@@ -254,6 +259,9 @@ Having successfully completed all tenure milestones and 3 enterprise application
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://nyayalens-eight.vercel.app/">
+        <img src="assets/nyayalens-preview.png" alt="NyayaLens Grounded AI Platform" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
       <h3>⚖️ NyayaLens — Grounded AI Legal Document Platform</h3>
       <p>
         <a href="https://nyayalens-eight.vercel.app/"><img src="https://img.shields.io/badge/Live_Platform-nyayalens--eight.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -277,6 +285,9 @@ Having successfully completed all tenure milestones and 3 enterprise application
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Manas51240/AkashDrishti">
+        <img src="assets/akashdrishti-preview.png" alt="AkashDrishti Satellite Remote Sensing" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
       <h3>🛰️ AkashDrishti — Satellite Remote Sensing Platform</h3>
       <p><b>Python • Sentinel-2 Space Imagery • NumPy • Flask • Firebase</b></p>
       <p>Satellite environmental change detection engine integrated with the Copernicus Data Space Ecosystem (CDSE):</p>
@@ -288,6 +299,7 @@ Having successfully completed all tenure milestones and 3 enterprise application
       <p><a href="https://github.com/Manas51240/AkashDrishti"><b>Explore AkashDrishti Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/iucaa-preview.png" alt="IUCAA Enterprise Travel Claim & Workshop Governance" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
       <h3>🏢 IUCAA Enterprise Platforms (Travel Claim & Workshop Governance)</h3>
       <p><b>Node.js • Express • MySQL 8.0 • React (TypeScript) • Docker • Nginx</b></p>
       <p>Production enterprise platforms designed for the <b>Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune</b>:</p>
