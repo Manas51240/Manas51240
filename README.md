@@ -12,7 +12,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=520&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Actively+Seeking+Full-Time+Roles" alt="Typing SVG" />
         </a>
         <br/>
-        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Engineer</b> • 🏛️ <b>President @ TIC Club (Sep 2025 – Apr 2026)</b></span>
+        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Student</b> • 🏛️ <b>President @ TIC Club (Sep 2025 – Apr 2026)</b></span>
       </td>
     </tr>
   </table>
@@ -64,7 +64,7 @@ Having successfully completed all tenure milestones and 3 enterprise application
       <p><b>Document Format:</b> 1-Page Linear Vector Layout • <b>ATS Parseability Score:</b> <code>96 / 100</code></p>
       <ul>
         <li><b>Core Stack:</b> SQL (CTEs, Window Functions), Power BI, DAX, Tableau, Python, Star Schema ETL</li>
-        <li><b>Work Experience:</b> Data Analyst @ <b>AI Variant</b> • Project Engineer @ <b>IUCAA</b> (Oracle 10g to 19c Migration)</li>
+        <li><b>Work Experience:</b> Data Analyst @ <b>AI Variant</b> • Project Student @ <b>IUCAA</b> (Oracle 10g to 19c Migration)</li>
         <li><b>Verified Credentials:</b> Google Analytics Certification (Google Skillshop) • IUCAA Project Certification • NPTEL / Cisco Python</li>
       </ul>
       <br/>
