@@ -44,11 +44,11 @@
 
 Data Analyst & Business Intelligence Specialist with a strong foundation in **SQL**, **Power BI**, **DAX**, **Tableau**, and **Python**, alongside working proficiency in **Node.js** and **Express** for data services and backend APIs. Experienced in building enterprise-grade data models (Star Schema / Snowflake), computing critical business KPIs (Revenue, ADR, RevPAR, Churn, Profit Margins), and delivering actionable insights to executive stakeholders.
 
-Having successfully completed all tenure milestones and 3 enterprise application projects as a **Former Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*, architecting secure, database-driven systems and approval workflows. Currently **actively seeking full-time Data Analyst & Business Intelligence roles** (Open to Remote & Relocation).
+Having successfully completed all tenure milestones, 2 full-stack enterprise web governance portals (Travel Claim Digitization & Workshop Proposals) and mission-critical database modernization routines (Oracle 10g to 12c) as a **Former Project Student at IUCAA** *(Inter-University Centre for Astronomy and Astrophysics)*. Currently **actively seeking full-time Data Analyst & Business Intelligence roles** (Open to Remote & Relocation).
 
 ---
 
-### 📄 Executive Resume & Credentials (ATS Score: 96/100 • 1-Page Optimized)
+### 📄 Executive Resume & Credentials (ATS Score: 98/100 • 1-Page Optimized)
 
 <table>
   <tr>
@@ -61,11 +61,25 @@ Having successfully completed all tenure milestones and 3 enterprise application
     </td>
     <td width="64%" valign="middle" style="padding-left: 20px;">
       <h4>🎯 Target Role: Data Analyst &amp; BI Engineer (AI + Analytics)</h4>
-      <p><b>Document Format:</b> 1-Page Linear Vector Layout • <b>ATS Parseability Score:</b> <code>96 / 100</code></p>
+      <p><b>Document Format:</b> 1-Page Linear Vector Layout • <b>ATS Parseability Score:</b> <code>98 / 100 (Elite)</code></p>
       <ul>
-        <li><b>Core Stack:</b> SQL (CTEs, Window Functions), Power BI, DAX, Tableau, Python, Star Schema ETL</li>
-        <li><b>Work Experience:</b> Data Analyst @ <b>AI Variant</b> • Project Student @ <b>IUCAA</b> (Oracle 10g to 19c Migration)</li>
-        <li><b>Verified Credentials:</b> Google Analytics Certification (Google Skillshop) • IUCAA Project Certification • NPTEL / Cisco Python</li>
+        <li><b>Core Stack:</b> SQL (CTEs, Window Functions), Power BI, DAX, Tableau, Python (Pandas/NumPy), Star Schema ETL</li>
+        <li><b>Work Experience:</b>
+          <ul>
+            <li><b>AI Variant:</b> Data Analyst Intern (Apr 2026 – Oct 2026 • 6 Mos) — <i>Automated ETL & Executive Dashboards</i></li>
+            <li><b>IUCAA:</b> Project Student (Aug 2025 – Apr 2026) — <i>Oracle 10g to 12c Modernization & 2 Full-Stack Governance Portals</i></li>
+          </ul>
+        </li>
+        <li><b>Government & Industry Credentials:</b>
+          <ul>
+            <li>🥇 <b>MeitY & NASSCOM FutureSkills Prime:</b> Certificate Program in Data Analyst — <b>Gold Category (73%)</b>, NSQF Level 5 (Issued: 24 Oct 2026)</li>
+            <li>📜 <b>EXCELR:</b> Data Analyst Programme — <b>Distinction</b> (Completed: 16 Jul 2026)</li>
+            <li>💼 <b>AI Variant:</b> Data Analyst Corporate Industry Internship (02 Apr 2026 – 03 Oct 2026 | Issued: 04 Oct 2026)</li>
+            <li>💼 <b>YuvaIntern:</b> Virtual R Data Analyst Internship (Issued: 21 Aug 2026)</li>
+            <li>📊 <b>Google Analytics (GA4):</b> Google Skillshop Verified (Valid to Jan 2027)</li>
+            <li>🏛️ <b>IUCAA:</b> Enterprise Database Modernization (Oracle 10g to 12c) Project Certificate (Issued: 04 May 2026)</li>
+          </ul>
+        </li>
       </ul>
       <br/>
       <a href="https://github.com/Manas51240/Manas51240/blob/main/Manas_Resume.pdf" target="_blank">
@@ -351,8 +365,8 @@ graph LR
         <sub><b>Revenue Evaluated</b><br/>ADR, RevPAR & Yield Modeling</sub>
       </td>
       <td align="center" width="25%">
-        <h3>🏢 3</h3>
-        <sub><b>Delivered Portals</b><br/>Enterprise Platforms @ IUCAA</sub>
+        <h3>🏢 2</h3>
+        <sub><b>Delivered Portals</b><br/>Enterprise Portals @ IUCAA</sub>
       </td>
       <td align="center" width="25%">
         <h3>🤖 4</h3>
