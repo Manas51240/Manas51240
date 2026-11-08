@@ -12,7 +12,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=false&vCenter=true&width=520&height=35&lines=Data+Analyst+%26+BI+Engineer;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;AI-Driven+Business+Analytics;Actively+Seeking+Full-Time+Roles" alt="Typing SVG" />
         </a>
         <br/>
-        <span>📍 <b>Pune, India</b> • 💼 <b>Ex-IUCAA Project Student</b> • 🏛️ <b>President @ TIC Club (Sep 2025 – Apr 2026)</b></span>
+        <span>📍 <b>Pune, India</b> • 💼 <b>Data Analyst Intern @ AI Variant (Apr – Oct 2026)</b> • 🏛️ <b>Ex-IUCAA Project Student</b> • 👑 <b>President @ TIC Club (Sep 2025 – Apr 2026)</b></span>
       </td>
     </tr>
   </table>
@@ -78,6 +78,7 @@ Having successfully completed all tenure milestones, 2 full-stack enterprise web
             <li>💼 <b>YuvaIntern:</b> Virtual R Data Analyst Internship (Issued: 21 Aug 2026)</li>
             <li>📊 <b>Google Analytics (GA4):</b> Google Skillshop Verified (Valid to Jan 2027)</li>
             <li>🏛️ <b>IUCAA:</b> Enterprise Database Modernization (Oracle 10g to 12c) Project Certificate (Issued: 04 May 2026)</li>
+            <li>🏛️ <b>IUCAA:</b> Web Governance Platforms Technical Systems Certificate (Issued: 30 Sep 2026)</li>
           </ul>
         </li>
       </ul>
